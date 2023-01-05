@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669556322 source:d:\0 file kuliah utama\semester 3\mata kuliah utama\tp_mod10_1301213355_if-45-01\main.cpp
+	"stack.h"
+
+1669556016 source:d:\0 file kuliah utama\semester 3\mata kuliah utama\tp_mod10_1301213355_if-45-01\stack.cpp
+	"stack.h"
+
+1669556559 d:\0 file kuliah utama\semester 3\mata kuliah utama\tp_mod10_1301213355_if-45-01\stack.h
+	<iostream>
+
